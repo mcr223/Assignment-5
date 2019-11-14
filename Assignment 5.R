@@ -10,3 +10,4 @@ SPDYNIMRTINUSA <- fread("SPDYNIMRTINUSA.csv",
                                  data.table=FALSE)
 setnames(SPDYNIMRTINUSA, colnames(header))
 rm(header)
+
